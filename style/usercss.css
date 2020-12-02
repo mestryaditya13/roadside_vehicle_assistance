@@ -1,0 +1,22 @@
+body{ 
+	
+	margin:0;
+	padding:0;
+	text-align:center;
+	background:yellow;
+	background-size:covers;
+	background-position:center;
+	font-family:sans-serif;
+}
+h1{
+	font-size:30px;
+	color:red;
+}
+form{
+	margin-top:50px;
+	transition:all 4s ease-in-out;
+	border-color:transparent;		
+}
+i{
+	font-family:times-new-roman;
+}
